@@ -1,0 +1,11 @@
+[submodule "Sources/bgfxC/bx"]
+	path = Sources/bgfxC/bx
+	url = git@github.com:STREGAsGate/bx-fork.git
+
+[submodule "Sources/bgfxC/bimg"]
+	path = Sources/bgfxC/bimg
+	url = git@github.com:STREGAsGate/bimg-fork.git
+
+[submodule "Sources/bgfxC/bgfx"]
+	path = Sources/bgfxC/bgfx
+	url = git@github.com:STREGAsGate/bgfx-fork.git
